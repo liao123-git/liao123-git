@@ -1,7 +1,6 @@
 - 👋 Hi, I’m LDL
 - 👀 I’m interested in Web
 - 🌱 I’m currently learning GO
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1923609016@qq.com
 
 <!---
